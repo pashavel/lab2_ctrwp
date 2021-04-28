@@ -1,11 +1,19 @@
 {
   "name": "lab2",
   "version": "1.0.0",
-  "description": "",
+  "description": "\"# lab2_ctrwp\" \r \"# lab2_ctrwp\" \r \"# lab2_ctrwp\" \r \"# lab2_ctrwp\"",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pashavel/lab2_ctrwp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pashavel/lab2_ctrwp/issues"
+  },
+  "homepage": "https://github.com/pashavel/lab2_ctrwp#readme"
 }
